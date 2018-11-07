@@ -1,0 +1,9 @@
+{
+    "name": "damian972/cms-detector",
+    "authors": [{
+        "name": "Damian972"
+    }],
+    "require": {
+        "stefangabos/zebra_curl": "^1.3"
+    }
+}
